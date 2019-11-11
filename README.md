@@ -13,4 +13,4 @@ Vue의 학습을 위한 ToDo List 입니다.
 - Helper를 사용하여 간편화
 - Vuex의 모듈화
 
-![mainImg](.\img\img.JPG)
+![mainImg](./img.JPG)
